@@ -6,8 +6,6 @@
 [![Demo](https://img.shields.io/badge/Project-Demo%20Page-red?logo=youtube&logoColor=white)](https://youtu.be/2GIXF2toO_Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Jiaxin Ye** · **Gaoxiang Cong** · **Chenhui Wang** · **Xin-Cheng Wen** · **Zhaoyang Li** · **Boyuan Cao** · **Hongming Shan†**
-
 </div>
 
 ### 📖 Abstract
